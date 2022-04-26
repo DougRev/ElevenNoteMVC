@@ -58,12 +58,29 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="IdentityModels.cs" />
+    <Compile Include="Migrations\202202091758051_InitialCreate.cs" />
+    <Compile Include="Migrations\202202091758051_InitialCreate.designer.cs">
+      <DependentUpon>202202091758051_InitialCreate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202202091830281_InitialMigration.cs" />
+    <Compile Include="Migrations\202202091830281_InitialMigration.designer.cs">
+      <DependentUpon>202202091830281_InitialMigration.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Note.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
     <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Migrations\202202091758051_InitialCreate.resx">
+      <DependentUpon>202202091758051_InitialCreate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202202091830281_InitialMigration.resx">
+      <DependentUpon>202202091830281_InitialMigration.cs</DependentUpon>
+    </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">

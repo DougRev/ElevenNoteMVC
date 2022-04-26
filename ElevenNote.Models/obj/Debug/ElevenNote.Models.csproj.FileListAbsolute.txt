@@ -15,8 +15,5 @@ C:\Users\DJ Revell\source\repos\ElevenNote.WebMVC\ElevenNote.Models\bin\Debug\Mi
 C:\Users\DJ Revell\source\repos\ElevenNote.WebMVC\ElevenNote.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
 C:\Users\DJ Revell\source\repos\ElevenNote.WebMVC\ElevenNote.Models\obj\Debug\ElevenNote.Models.csproj.CopyComplete
 C:\Users\DJ Revell\source\repos\ElevenNote.WebMVC\ElevenNote.Models\bin\Debug\ElevenNote.Data.dll
-C:\Users\DJ Revell\source\repos\ElevenNote.WebMVC\ElevenNote.Models\bin\Debug\ElevenNote.Services.dll
 C:\Users\DJ Revell\source\repos\ElevenNote.WebMVC\ElevenNote.Models\bin\Debug\ElevenNote.Data.pdb
 C:\Users\DJ Revell\source\repos\ElevenNote.WebMVC\ElevenNote.Models\bin\Debug\ElevenNote.Data.dll.config
-C:\Users\DJ Revell\source\repos\ElevenNote.WebMVC\ElevenNote.Models\bin\Debug\ElevenNote.Services.pdb
-C:\Users\DJ Revell\source\repos\ElevenNote.WebMVC\ElevenNote.Models\bin\Debug\ElevenNote.Services.dll.config
